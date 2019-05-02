@@ -1,4 +1,4 @@
-# WinFormsSqliteWithEFCore
+# Win Forms Sqlite With EF Core
 1. Create winforms project
 2. Install Package Microsoft.EntityFrameworkCore.Sqlite
 3. Install Package Microsoft.EntityFrameworkCore.Design 

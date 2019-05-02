@@ -1,8 +1,8 @@
 # WinFormsSqliteWithEFCore
-1. Crreate winforms project
-2. Install Microsoft.EntityFrameworkCore.Sqlite
-3. Install Microsoft.EntityFrameworkCore.Design 
-4. Install Microsoft.EntityFrameworkCore.Tools
+1. Create winforms project
+2. Install Package Microsoft.EntityFrameworkCore.Sqlite
+3. Install Package Microsoft.EntityFrameworkCore.Design 
+4. Install Package Microsoft.EntityFrameworkCore.Tools
 5. Create Any Class and inherited DbContext Base Class. For Example  class name is UserContext so 
   public class UserContext: DbContext
   {
